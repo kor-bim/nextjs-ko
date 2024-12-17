@@ -213,6 +213,123 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "kor-bim",
+      "name": "Yoon Han Bin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69673803?v=4",
+      "profile": "https://github.com/kor-bim",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "WaterMinCho",
+      "name": "조민수",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74204327?v=4",
+      "profile": "https://github.com/WaterMinCho",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jinlee0310",
+      "name": "HyojinLee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177381010?v=4",
+      "profile": "https://github.com/jinlee0310",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "davindev",
+      "name": "vinnie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67614188?v=4",
+      "profile": "https://velog.io/@davin",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "hyunmyungJaneLee",
+      "name": "Arin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28864029?v=4",
+      "profile": "http://hyunmyungjanelee.github.io/blog",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "wlstmd",
+      "name": "Jinseung",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127307160?v=4",
+      "profile": "https://litt.ly/jinseung_",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "mini-boo",
+      "name": "Hyunsoo Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81962257?v=4",
+      "profile": "https://velog.io/@mini-boo/posts",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Ubinquitous",
+      "name": "박우빈",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102154880?v=4",
+      "profile": "https://parkubin.notion.site/a71d9b12489e4a93ab2d7c51b9b1e00b",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "HarrySeop",
+      "name": "HarrySeop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141125424?v=4",
+      "profile": "https://github.com/HarrySeop",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "lionleeee",
+      "name": "정훈",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51181222?v=4",
+      "profile": "https://velog.io/@lionleeee",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "sangseophwang",
+      "name": "SangSeop Hwang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79933417?v=4",
+      "profile": "https://sangseophwang.tistory.com/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "blueline1984",
+      "name": "White",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97525377?v=4",
+      "profile": "http://github.com/blueline1984",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "seokkamoni",
+      "name": "김석진(poki)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102217654?v=4",
+      "profile": "https://blog.seokkamoni.me",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -220,5 +337,5 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "nextjs-ko",
-  "projectOwner": "luciancah"
+  "projectOner": "luciancah"
 }

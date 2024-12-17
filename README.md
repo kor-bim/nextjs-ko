@@ -63,6 +63,23 @@
     <tr>
         <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@jihyeong00"><img src="https://avatars.githubusercontent.com/u/115636461?v=4?s=100" width="100px;" alt="Zero"/><br /><sub><b>Zero</b></sub></a><br /><a href="#content-Zero-1016" title="Content">🖋</a></td>
         <td align="center" valign="top" width="14.28%"><a href="https://github.com/yoouyeon"><img src="https://avatars.githubusercontent.com/u/57761286?v=4?s=100" width="100px;" alt="Yoon Jeongyeon"/><br /><sub><b>Yoon Jeongyeon</b></sub></a><br /><a href="#content-yoouyeon" title="Content">🖋</a></td>
+        <td align="center" valign="top" width="14.28%"><a href="https://github.com/kor-bim"><img src="https://avatars.githubusercontent.com/u/69673803?v=4?s=100" width="100px;" alt="Yoon Han Bin"/><br /><sub><b>Yoon Han Bin</b></sub></a><br /><a href="#content-kor-bim" title="Content">🖋</a></td>
+        <td align="center" valign="top" width="14.28%"><a href="https://github.com/WaterMinCho"><img src="https://avatars.githubusercontent.com/u/74204327?v=4?s=100" width="100px;" alt="조민수"/><br /><sub><b>조민수</b></sub></a><br /><a href="#content-WaterMinCho" title="Content">🖋</a></td>
+        <td align="center" valign="top" width="14.28%"><a href="https://github.com/jinlee0310"><img src="https://avatars.githubusercontent.com/u/177381010?v=4?s=100" width="100px;" alt="HyojinLee"/><br /><sub><b>HyojinLee</b></sub></a><br /><a href="#content-jinlee0310" title="Content">🖋</a></td>
+        <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@davin"><img src="https://avatars.githubusercontent.com/u/67614188?v=4?s=100" width="100px;" alt="vinnie"/><br /><sub><b>vinnie</b></sub></a><br /><a href="#content-davindev" title="Content">🖋</a></td>
+        <td align="center" valign="top" width="14.28%"><a href="http://hyunmyungjanelee.github.io/blog"><img src="https://avatars.githubusercontent.com/u/28864029?v=4?s=100" width="100px;" alt="Arin"/><br /><sub><b>Arin</b></sub></a><br /><a href="#content-hyunmyungJaneLee" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" width="14.28%"><a href="https://litt.ly/jinseung_"><img src="https://avatars.githubusercontent.com/u/127307160?v=4?s=100" width="100px;" alt="Jinseung"/><br /><sub><b>Jinseung</b></sub></a><br /><a href="#content-wlstmd" title="Content">🖋</a></td>
+        <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@mini-boo/posts"><img src="https://avatars.githubusercontent.com/u/81962257?v=4?s=100" width="100px;" alt="Hyunsoo Kim"/><br /><sub><b>Hyunsoo Kim</b></sub></a><br /><a href="#content-mini-boo" title="Content">🖋</a></td>
+        <td align="center" valign="top" width="14.28%"><a href="https://parkubin.notion.site/a71d9b12489e4a93ab2d7c51b9b1e00b"><img src="https://avatars.githubusercontent.com/u/102154880?v=4?s=100" width="100px;" alt="박우빈"/><br /><sub><b>박우빈</b></sub></a><br /><a href="#content-Ubinquitous" title="Content">🖋</a></td>
+        <td align="center" valign="top" width="14.28%"><a href="https://github.com/HarrySeop"><img src="https://avatars.githubusercontent.com/u/141125424?v=4" width="100px;" alt="HarrySeop"/><br /><sub><b>HarrySeop</b></sub></a><br /><a href="#content-HarrySeop" title="Content">🖋</a></td>
+        <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@lionleeee"><img src="https://avatars.githubusercontent.com/u/51181222?v=4" width="100px;" alt="정훈"/><br /><sub><b>정훈</b></sub></a><br /><a href="#content-lionleeee" title="Content">🖋</a></td>
+        <td align="center" valign="top" width="14.28%"><a href="https://sangseophwang.tistory.com/"><img src="https://avatars.githubusercontent.com/u/79933417?v=4" width="100px;" alt="SangSeop Hwang"/><br /><sub><b>SangSeop Hwang</b></sub></a><br /><a href="#content-sangseophwang" title="Content">🖋</a></td>
+        <td align="center" valign="top" width="14.28%"><a href="https://github.com/blueline1984"><img src="https://avatars.githubusercontent.com/u/97525377?v=4" width="100px;" alt="White"/><br /><sub><b>White</b></sub></a><br /><a href="#content-blueline1984" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" width="14.28%"><a href="https://blog.seokkamoni.me"><img src="https://avatars.githubusercontent.com/u/102217654?v=4" width="100px;" alt="김석진(poki)"/><br /><sub><b>김석진(poki)</b></sub></a><br /><a href="#content-seokkamoni" title="Content">🖋</a></td>
     </tr>
 </tbody>
 </table>
